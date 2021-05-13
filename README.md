@@ -3,6 +3,7 @@
 
 ### Descripción del Dataset y cómo se obtuvo
 ##### Se utilizaron datos de juegos olímpicos publicados en Kaggle. Éste cuenta con dos archivos de conjuntos de datos en formato CSV y ambos se utilizarán para hacer el análisis. En el archivo athlete_events se encuentra la información de todos los atletas y competencias en las que participaron, así como la información de las medallas ganadas. En noc_regions se encuentra la información del código del Comité Olímpico Nacional y el país correspondiente de cada código. Los datos de cada uno de los dos dataset se unieron de manera estratégica para tomar provecho de ellos. 
+##### Dado a que la base de datos de una de las dos tablas llamada athlete_events.csv es bastante grande, fue necesario comprimirlo en un .rar 
 
 ### Objetivos
 ##### Con este proyecto lo que se pretendió hacer, además de poner en práctica habilidades en preprocesamiento de datos y modelos de machine learning para problemas de regresión, fue enfocarlo a la predicción de futuros resultados de un evento deportivo de importancia, y dado a que el mismo principio puede ser aplicado a competencias de distinta índole, este tipo de programas resultaría de gran ayuda a apostadores y analistas deportivos. 
