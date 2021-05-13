@@ -1,1 +1,1 @@
-# Olimpiadas_Predicci-n
+# Olimpiadas_Predicción
