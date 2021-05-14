@@ -16,10 +16,14 @@ Se utiliza también la librería de scikitlearn para resolver un problema de reg
 
 ### Conclusiones y resultados obtenidos
 En el algoritmo de Regresión Lineal Múltiple utilizado hay un valor de R-cuadrado bastante bueno para la predicción de cada uno de la cantidad de medallas oro, plata y bronce. A continuación los valores respectivos:
+
 ![image](https://user-images.githubusercontent.com/43154438/118084027-92cf1800-b385-11eb-9b4e-5dab6646446d.png)
+
 Estos son los datos cuando se toman como datos de prueba los de Rio de Janeiro 2016.
 Podemos ver a continuación una parte de la tabla de datos de prueba (y_test) donde es posible visualizar qué tan aproximados están los datos predichos a los reales.
+
 ![image](https://user-images.githubusercontent.com/43154438/118084069-a7131500-b385-11eb-8d60-ad59484c19b2.png)
+
 Podemos concluir que la aproximación es considerable en algunos casos y en otros se aleja un poco. Pero cabe resaltar que si se le agregan más datos de relevancia además de los disponibles en esta base de datos, tales como promedio de tiempo de entrenamiento por cada atleta, número de eventos deportivos en el que participaron los atletas, así como el desempeño deportivo de los atletas los últimos años; entonces así podría tenerse un resultado más acercado y un mejor desempeño.
 Además también se creó un nuevo dataset para simular los resultados reales de los Juegos Olímpicos que supuestamente se iban a llevar a cabo en Tokyo. Cabe destacar que para este habría sido conveniente tomar los datos de Rio 2016 como datos de entrenamiento. 
 
