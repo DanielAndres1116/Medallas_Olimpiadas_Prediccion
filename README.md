@@ -1,6 +1,8 @@
 # Olimpiadas_Predicción
 ## Predicción de la cantidad de medallas que ganarán los países en las olimpiadas
 
+![image](https://user-images.githubusercontent.com/43154438/119209433-3302fc00-ba6c-11eb-9129-ae2918df0266.png)
+
 ### Descripción del Dataset y cómo se obtuvo
 Se utilizaron datos de juegos olímpicos publicados en Kaggle. Éste cuenta con dos archivos de conjuntos de datos en formato CSV y ambos se utilizarán para hacer el análisis. En el archivo athlete_events se encuentra la información de todos los atletas y competencias en las que participaron, así como la información de las medallas ganadas. En noc_regions se encuentra la información del código del Comité Olímpico Nacional y el país correspondiente de cada código. Los datos de cada uno de los dos dataset se unieron de manera estratégica para tomar provecho de ellos. 
 ##### Dado a que la base de datos de una de las dos tablas llamada athlete_events.csv es bastante grande, fue necesario comprimirlo en un .rar 
