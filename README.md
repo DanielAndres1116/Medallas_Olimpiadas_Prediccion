@@ -37,7 +37,7 @@ En el algoritmo de Regresión Lineal Múltiple utilizado hay un valor de R-cuadr
 ![image](https://user-images.githubusercontent.com/43154438/118084027-92cf1800-b385-11eb-9b4e-5dab6646446d.png)
 
 Estos son los datos cuando se toman como datos de prueba los de Rio de Janeiro 2016.
-Podemos ver a continuación una parte de la tabla de datos de prueba (y_test) donde es posible visualizar qué tan aproximados están los datos predichos a los reales.
+Podemos ver a continuación una parte de la tabla de datos de prueba (y_test) donde es posible visualizar qué tan aproximados están los datos predichos a los reales. Los datos de la izquierda son los datos reales, y los de la derecha son los de la predicción del modelo.
 
 ![image](https://user-images.githubusercontent.com/43154438/118084069-a7131500-b385-11eb-8d60-ad59484c19b2.png)
 
