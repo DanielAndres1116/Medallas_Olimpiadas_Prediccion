@@ -14,6 +14,23 @@ Se utiliza la librería de Pandas para importar el archivo correspondiente y ges
 Se utiliza la librería de Matplotlib y Seaborn para hacer gráficos que permitan ir entendiendo los datos y visualizarlos por medio de histogramas, gráficos de dispersión y gráficos de unión de puntos. Se usa también la librería de Seaborn ya que a veces es mejor la manera en que se presentan aquí que en Matplotlib. 
 Se utiliza también la librería de scikitlearn para resolver un problema de regresión con un modelo de machine learning. Los datos de entrenamiento serán aquellos antes de las últimas olimpiadas en Rio de Janeiro en 2016, y las de prueba serán las de Rio 2016. En realidad se entrenan tres modelos para que aprenda a predecir tanto las medallas de oro, como las de plata y bronce en las siguientes olimpiadas.  
 
+Algunos gráficos de importancia obtenidos son los siguientes:
+
+![image](https://user-images.githubusercontent.com/43154438/119209275-5aa59480-ba6b-11eb-8540-47ad7563440f.png)
+
+Figura 1: Histograma de la cantidad de medallas de oro según la edad.
+
+![image](https://user-images.githubusercontent.com/43154438/119209319-9d676c80-ba6b-11eb-90be-71e78d3918d0.png)
+
+Figura 2: Histograma de la cantidad de medallas repartidas por disciplina deportiva.
+
+![image](https://user-images.githubusercontent.com/43154438/119209364-c982ed80-ba6b-11eb-829a-0a28667d2470.png)
+
+Figura 3: Top 5 de países con mayor número de medallas olímpicas.
+
+
+
+
 ### Conclusiones y resultados obtenidos
 En el algoritmo de Regresión Lineal Múltiple utilizado hay un valor de R-cuadrado bastante bueno para la predicción de cada uno de la cantidad de medallas oro, plata y bronce. A continuación los valores respectivos:
 
